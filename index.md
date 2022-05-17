@@ -7,7 +7,7 @@ An app being developed to highlight contribution of institutions to society (Acc
 
 
 ## Study pen network https://www.studypennetwork.com/Questions
-    An app under developement to help in setting multiple choice type questions
+An app under developement to help in setting multiple choice type questions
 
 ## Timesple https://play.google.com/store/apps/details?id=com.brokershell.timesplemob&hl=en&gl=US
 A times table game which helps youngsters practice multiplication ...also a family game and cuts across a broad age range
