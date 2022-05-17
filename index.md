@@ -1,3 +1,38 @@
+
+## HSSignPost https://www.hssignpost.com/
+An app focused on tying gps data to locations to help highlight hazards or show report dangers or issues of interest to the appropriate authorities for action (eg say a 
+burst pipe location can be reported to the Ghana Water Company).
+## Citizen Accra https://evansaf.github.io/citizen_accra/
+   An app being developed to highlight contribution of institutions to society (Accra) ...would be complete with voting functionality
+
+## ibtext : https://play.google.com/store/apps/details?id=com.brokershell.ibtextbcmnative
+   Type a generic message and have it customised with each recipient's name ...save you some typing
+
+## Timesple https://play.google.com/store/apps/details?id=com.brokershell.timesplemob&hl=en&gl=US
+      A times table game which helps youngsters practice multiplication ...also a family game and cuts across a broad age range
+## ECS Word Game https://play.google.com/store/apps/details?id=com.brokershell.efacompete
+     A game played for fun but supports/encourages youngsters to build their word power ... older people can also play
+
+## Study pen network https://www.studypennetwork.com/Questions
+    An app under developement to help in setting multiple choice type questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/EvansAF/evansaf.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +70,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
