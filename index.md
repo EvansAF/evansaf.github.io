@@ -12,7 +12,7 @@ An app under developement to help in setting multiple choice type questions
 ## Timesple https://play.google.com/store/apps/details?id=com.brokershell.timesplemob&hl=en&gl=US
 A times table game which helps youngsters practice multiplication ...also a family game and cuts across a broad age range
 
-## ECS Word Game https://play.google.com/store/apps/details?id=com.brokershell.efacompete
+## ECS Word Game <href="https://play.google.com/store/apps/details?id=com.brokershell.efacompete"> link </href>
 A game played for fun but supports/encourages youngsters to build their word power ... older people can also play
    
 ## ibtext : https://play.google.com/store/apps/details?id=com.brokershell.ibtextbcmnative
