@@ -12,6 +12,9 @@ An app under developement to help in setting multiple choice type questions
 ## Timesple [link](https://play.google.com/store/apps/details?id=com.brokershell.timesplemob&hl=en&gl=US )
 A times table game which helps youngsters practice multiplication ...also a family game and cuts across a broad age range
 
+
+
+<!--
 ## ECS Word Game [link](https://play.google.com/store/apps/details?id=com.brokershell.efacompete)
 A game played for fun but supports/encourages youngsters to build their word power ... older people can also play
    
@@ -30,9 +33,6 @@ Type a generic message and have it customised with each recipient's name ...save
 
 
 
-
-
-<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/EvansAF/evansaf.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
