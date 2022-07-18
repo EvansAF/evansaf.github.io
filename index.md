@@ -1,10 +1,10 @@
 
 ## Study pen  [link](https://www.studypennetwork.com/Questions)
 An app under developement to help in setting multiple choice type questions
-
+<!--
 ## Citizen Accra [link](https://evansaf.github.io/citizen_accra/) 
 An app being developed to highlight contribution of institutions to society (Accra) ...would be complete with voting functionality
-
+ -->
 <!-- ## HSSignPost [link](https://www.hssignpost.com/)
 An app focused on tying gps data to locations to help highlight hazards or report issues of interest to the appropriate authorities for action (eg say a burst pipe location can be reported to the Ghana Water Company).
  -->
