@@ -1,6 +1,6 @@
 
 ## Study pen  [link](https://www.studypennetwork.com/Questions)
-An app under developement to help in setting multiple choice type questions
+An app under development to help in setting multiple choice type questions
 
 
 ## HSSignPost [link](https://www.hssignpost.com/)
