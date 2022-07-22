@@ -2,8 +2,6 @@
 ## Study pen  [link](https://www.studypennetwork.com/Questions)
 An app under developement to help in setting multiple choice type questions
 
-## Citizen Accra [link](https://evansaf.github.io/citizen_accra/) 
-An app being developed to highlight contribution of institutions to society (Accra) ...would be complete with voting functionality
 
 ## HSSignPost [link](https://www.hssignpost.com/)
 An app focused on tying gps data to locations to help highlight hazards or report issues of interest to the appropriate authorities for action (eg say a burst pipe location can be reported to the Ghana Water Company).
@@ -16,16 +14,7 @@ summarizing data, download csv file reports send summary reports via text messag
 
 
 <!--
-## Timesple [link](https://play.google.com/store/apps/details?id=com.brokershell.timesplemob&hl=en&gl=US )
-A times table game which helps youngsters practice multiplication ...also a family game and cuts across a broad age range
 
-
-
-## ECS Word Game [link](https://play.google.com/store/apps/details?id=com.brokershell.efacompete)
-A game played for fun but supports/encourages youngsters to build their word power ... older people can also play
-   
-## ibtext  [link](https://play.google.com/store/apps/details?id=com.brokershell.ibtextbcmnative )
-Type a generic message and have it customised with each recipient's name ...save you some typing
 
 
 
