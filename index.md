@@ -6,6 +6,10 @@ An application I designed, coded and deployed for testing at Ghana's final refer
 I coded the application with Java and Postgres.
 The work was published in a journal linked above.
 
+## ActManifest 
+A data collection tool for the FMCG industry A mobile app for marketing /field staff and a web portal backend for analysing and
+summarizing data, download csv file reports send summary reports via text message etc.
+
 ## Study pen  [link](https://www.studypennetwork.com/Questions)
 An app under development to help in setting multiple choice type questions
 
@@ -13,9 +17,7 @@ An app under development to help in setting multiple choice type questions
 ## HSSignPost [link](https://www.hssignpost.com/)
 An app focused on tying gps data to locations to help highlight hazards or report issues of interest to the appropriate authorities for action (eg say a burst pipe location can be reported to the Ghana Water Company).
 
-## ActManifest 
-A data collection tool for the FMCG industry A mobile app for marketing /field staff and a web portal backend for analysing and
-summarizing data, download csv file reports send summary reports via text message etc.
+
 
 
 
