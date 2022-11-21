@@ -10,7 +10,11 @@ An app focused on tying gps data to locations to help highlight hazards or repor
 A data collection tool for the FMCG industry A mobile app for marketing /field staff and a web portal backend for analysing and
 summarizing data, download csv file reports send summary reports via text message etc.
 
+## Design of an Eletronic Medical Record for the Sickle Cell Clinic Korle-Bu [link](http://innovativejournal.in/index.php/ajcem/article/view/571)
 
+An application I designed, coded and deployed for testing at Ghana's final referral hospital as a final project for my Masters degree.
+I coded the application with Java and Postgres.
+The work was published in a journal linked above.
 
 
 <!--
