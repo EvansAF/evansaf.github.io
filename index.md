@@ -1,11 +1,5 @@
 
 
-## Design of an Eletronic Medical Record for the Sickle Cell Clinic Korle-Bu [link](http://innovativejournal.in/index.php/ajcem/article/view/571)
-
-An application I designed, coded and deployed for testing at Ghana's final referral hospital as a final project for my Masters degree.
-I coded the application with Java and Postgres.
-The work was published in a journal linked above.
-
 ## ActManifest 
 A data collection tool for the FMCG industry A mobile app for marketing /field staff and a web portal backend for analysing and
 summarizing data, download csv file reports send summary reports via text message etc.
@@ -18,7 +12,11 @@ An app under development to help in setting multiple choice type questions
 An app focused on tying gps data to locations to help highlight hazards or report issues of interest to the appropriate authorities for action (eg say a burst pipe location can be reported to the Ghana Water Company).
 
 
+## Design of an Eletronic Medical Record for the Sickle Cell Clinic Korle-Bu [link](http://innovativejournal.in/index.php/ajcem/article/view/571)
 
+An application I designed, coded tested for Ghana's final referral hospital as a final project for my Masters degree.
+I coded the application with Java and Postgres.
+The work was published in a journal linked above.
 
 
 <!--
