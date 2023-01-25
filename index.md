@@ -4,7 +4,7 @@
 A data collection tool for the FMCG industry A mobile app for marketing /field staff and a web portal backend for analysing and
 summarizing data, download csv file reports send summary reports via text message etc.
 
-## Study pen  [link](https://www.studypennetwork.com/Questions)
+## Study pen  [link](https://monumental-dango-51fa67.netlify.app/)
 An app under development to help in setting multiple choice type questions
 
 
@@ -21,7 +21,7 @@ The work was published in a journal linked above.
 
 <!--
 
-
+https://monumental-dango-51fa67.netlify.app/
 
 
 
