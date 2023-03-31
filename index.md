@@ -12,7 +12,7 @@ An app focused on tying gps data to locations to help highlight hazards or repor
 
 -->
 ## Brokershell Website  [link](https://www.brokershell.com/)
- ## Study pen  [link](https://monumental-dango-51fa67.netlify.app/)
+ ## Study pen  [link](https://brokershell.org/)
 An app under development to help in setting multiple choice type questions
 ## Design of an Eletronic Medical Record for the Sickle Cell Clinic Korle-Bu [link](http://innovativejournal.in/index.php/ajcem/article/view/571)
 
