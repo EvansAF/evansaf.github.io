@@ -11,8 +11,12 @@ summarizing data, download csv file reports send summary reports via text messag
 An app focused on tying gps data to locations to help highlight hazards or report issues of interest to the appropriate authorities for action (eg say a burst pipe location can be reported to the Ghana Water Company).
 
 -->
+## ibTChat [link](https://www.brokershell.com/Login)
+IbTChat is a chat tool that has a lot of usecases Staff (eg Developers ) can use it to store chat conversations of how to solve certain problems, communicate with clients etc 
 ## Brokershell Website  [link](https://www.brokershell.com/)
- ## Study pen  [link](https://brokershell.org/)
+
+
+## Study pen  [link](https://brokershell.org/)
 An app under development to help in setting multiple choice type questions
 ## Design of an Eletronic Medical Record for the Sickle Cell Clinic Korle-Bu [link](http://innovativejournal.in/index.php/ajcem/article/view/571)
 
