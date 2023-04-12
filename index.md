@@ -12,7 +12,7 @@ An app focused on tying gps data to locations to help highlight hazards or repor
 
 -->
 ## ibTChat [link](https://www.brokershell.com/Login)
-IbTChat is a chat tool that has a lot of usecases Staff (eg Developers ) can use it to store chat conversations of how to solve certain problems, communicate with clients etc 
+IbTChat is a chat tool that has a lot of usecases. Staff (eg. Developers ) can use it to store chat conversations of how to solve certain problems, communicate with clients etc 
 ## Brokershell Website  [link](https://www.brokershell.com/)
 A Website I developed for the Brokershell company
 
