@@ -18,6 +18,10 @@ A Website I developed for the Brokershell company
 
 ## Study pen  [link](https://brokershell.org/)
 An app under development to help in setting multiple choice type questions
+
+## Google Africa Developer Scholarship Program (100 days) [link](https://github.com/EvansAF/GADSPracticeProjectSubmission)
+Labs completed during training 
+
 ## Design of an Eletronic Medical Record for the Sickle Cell Clinic Korle-Bu [link](http://innovativejournal.in/index.php/ajcem/article/view/571)
 
 An application I designed, coded tested for Ghana's final referral hospital as a final project for my Masters degree.
