@@ -20,7 +20,10 @@ A Website I developed for the Brokershell company
 An app under development to help in setting multiple choice type questions
 
 ## Google Africa Developer Scholarship Program (100 days) [link](https://github.com/EvansAF/GADSPracticeProjectSubmission)
-Labs completed during training 
+Labs completed during training
+Certified Associate Google Cloud Engineer
+  [link](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/27938439)
+
 
 ## Design of an Eletronic Medical Record for the Sickle Cell Clinic Korle-Bu [link](http://innovativejournal.in/index.php/ajcem/article/view/571)
 
