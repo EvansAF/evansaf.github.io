@@ -1,4 +1,4 @@
-
+## Linkedin Evans Ata Forson [link](https://linkedin.com/in/evansforson/)
 
 ## ActManifest 
 A data collection tool for the FMCG industry A mobile app for marketing /field staff and a web portal backend for analysing and
