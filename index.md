@@ -18,7 +18,7 @@ A Website I developed for the Brokershell company
 
 ## Study pen  [link](https://brokershell.org/)
 An app under development to help in setting multiple choice type questions
-
+## Linkedin Omdena Project [link](https://github.com/omdena-chapter-brooklyn-food-desert/evans_cluster_test_analysis)
 ## Google Africa Developer Scholarship Program (100 days) 
 #Certified Associate Google Cloud Engineer [link](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/27938439)
 
